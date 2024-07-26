@@ -40,7 +40,8 @@ li a{
 }
 .bottom{
   position: fixed;
-  left: 0;
+  margin: 10px;
+  left: 1400px;
   bottom: 0;
   width: 100%;
   background-color: rgb(14, 6, 6);
